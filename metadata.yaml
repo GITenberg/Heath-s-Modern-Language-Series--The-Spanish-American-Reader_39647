@@ -1,0 +1,27 @@
+_repo: Heath-s-Modern-Language-Series--The-Spanish-American-Reader_39647
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39647-h/images/cover-lg.jpg
+creator:
+  author:
+    agent_name: Nelson, Ernesto
+    gutenberg_agent_id: '40130'
+    url: http://www.gutenberg.org/2009/agents/40130
+description: ''
+gutenberg_issued: '2012-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39647'
+  lccn: '16022864'
+language:
+- en
+- es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish language -- Readers'
+- !lcc 'PC'
+title: 'Heath''s Modern Language Series: The Spanish American Reader'
+url: http://www.gutenberg.org/ebooks/39647
